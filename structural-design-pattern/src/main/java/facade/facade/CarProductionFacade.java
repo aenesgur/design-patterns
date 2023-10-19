@@ -16,10 +16,10 @@ public class CarProductionFacade {
     }
 
     public void produceCar() {
-        System.out.println("Car Production is Started!");
+        System.out.println("Coffee Production is Started!");
         motorProduction.produceMotor();
         chassisProduction.produceChassis();
         electricalSystemAssembly.assembleElectricalSystem();
-        System.out.println("Car Production is Completed!");
+        System.out.println("Coffee Production is Completed!");
     }
 }
