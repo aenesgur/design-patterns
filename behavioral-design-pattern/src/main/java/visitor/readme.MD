@@ -1,0 +1,3 @@
+### What is visitor design pattern?
+The purpose of a Visitor pattern is to define a new operation without introducing the modifications to an existing object structure. It is a type of behavioral design pattern. It manages algorithms, relationships, and responsibilities between objects. It is used to perform an operation on a group of similar kinds of Objects at runtime. It decouples the operations from an object structure. Using visitor patterns, we can easily add new behaviors to the existing class hierarchy without changing the existing code. Sometimes, it is also known as a behavioral pattern.
+
